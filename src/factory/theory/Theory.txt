@@ -1,0 +1,3 @@
+Factory pattern represents hiding creation of an object from the client code.
+It's good to decouple logic and add more created objects, also it's good for testing specific object creation.
+Use it when there is some kind of logic to create complex object.

@@ -6,6 +6,6 @@ class BankAccount {
     }
 
     fun withDrawCash(): Int {
-        return 10000
+        return 100000
     }
 }

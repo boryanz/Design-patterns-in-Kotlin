@@ -1,0 +1,12 @@
+Programming Task: Implementing a Vending Machine
+Problem:
+Create a vending machine simulator that can dispense items based on user input.
+The vending machine should have a limited inventory of items, each with a specific price.
+
+Input:
+- The user's choice of item
+- The amount of money inserted
+
+Output:
+- A message indicating whether the item was dispensed or not
+- Any remaining change
